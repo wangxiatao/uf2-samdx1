@@ -1,4 +1,4 @@
-BOARD=zero
+BOARD=neonode_adapter_air
 -include Makefile.user
 include boards/$(BOARD)/board.mk
 CC=arm-none-eabi-gcc
